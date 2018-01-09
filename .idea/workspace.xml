@@ -260,9 +260,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="XamppPHP" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1908" />
-    <option name="width" value="1944" />
-    <option name="height" value="2082" />
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="3868" />
+    <option name="height" value="2098" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -370,12 +371,12 @@
       <workItem from="1515292006335" duration="564000" />
       <workItem from="1515365157330" duration="136000" />
       <workItem from="1515365311290" duration="7358000" />
-      <workItem from="1515375634849" duration="21308000" />
+      <workItem from="1515375634849" duration="21584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100749000" />
+    <option name="totallyTimeSpent" value="101025000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,7 +389,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-14" width="3868" height="2098" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16016042" sideWeight="0.76779026" order="2" side_tool="false" content_ui="combo" x="9" y="9" width="3822" height="2052" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
